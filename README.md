@@ -1,2 +1,2 @@
-# proximo
-Próximo: A queuing system for everyone.
+# Próximo
+A queuing system for everyone.
