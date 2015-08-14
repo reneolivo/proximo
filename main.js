@@ -12,11 +12,7 @@ app.on('window-all-closed', function() {
 app.on('ready', function() {
   globalWindow = new BrowserWindow({
     'width': 800,
-    'height': 600,
-    'web-preferences': {
-        'web-security': false,
-        'webgl': false
-    }
+    'height': 600
   });
 
   globalWindow.loadUrl('file://' + __dirname + '/index.html');
