@@ -5,7 +5,7 @@ Próximo is a simple queuing system for services stations.
 
 Próximo is being developed using [Aurelia](http://aurelia.io) and [Electron](http://electron.atom.io/).
 
-Contributions are very welcomed. If you decide to help, feel free to grab an issue from [this list](https://github.com/reneolivo/proximo/issues) or create a new one if you either notice a bug or require a new feature.
+Contributions are very welcome. If you decide to help, feel free to grab an issue from [this list](https://github.com/reneolivo/proximo/issues) or create a new one if you either notice a bug or require a new feature.
 
 You can refer to our mockups using the following link:
 https://moqups.com/reneolivo/3g4T9W38
