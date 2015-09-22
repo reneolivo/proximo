@@ -30,6 +30,9 @@ https://moqups.com/reneolivo/3g4T9W38
 - Services selection
 - Services stations groups
 
+### v1.7.0
+- Ticket transfer
+
 ### v2.0.0
 - Skins
 - QRCode ticket (paperless ticket)
